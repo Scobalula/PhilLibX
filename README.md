@@ -5,7 +5,7 @@ This is a set of classes, structures, methods, wrappers for DirectXTex, Compress
 
 ## Using the Library
 
-The latest Debug and Release x86/x64 builds can be found from the [Releases](https://github.com/Scobalula/PhilLibX/releases) page, from there you can add them as a reference to your project. They are built using .NET Framework 4.7.2 on Visual Studio 2019, with MSVC V142 Windows 10 SDK used to compile the external native libraries and PhilLibX.Interop.dll, may you need to grab latest MSVC Runtimes from Microsoft to use them. PhilLibX.Interop.dll and PhilLibX.dll are not required to use each other, and so you can use either or both in your code.
+The latest Debug and Release x86/x64 builds can be found from the [Releases](https://github.com/Scobalula/PhilLibX/releases) page, from there you can add them as a reference to your project. They are built using .NET Framework 4.7.2 on Visual Studio 2019, with MSVC V142 Windows 10 SDK used to compile the external native libraries and PhilLibX.Interop.dll, you may need to grab latest MSVC Runtimes from Microsoft to use them. PhilLibX.Interop.dll and PhilLibX.dll are not required to use each other, and so you can use either or both in your code.
 
 To build the library simply download/clone the repo and ensure you have the MSVC 142 compile tools and .NET 4.7.2, if you are having issues feel free to file an issue and I'll see if I can help, but I generally have limited time and so ensure you have tried everything before asking!
 
