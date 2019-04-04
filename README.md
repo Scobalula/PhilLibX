@@ -1,5 +1,5 @@
 # PhilLibX - My .NET Utility Library
-[![Releases](https://img.shields.io/github/downloads/Scobalula/PhilLibX/total.svg)](https://github.com/Scobalula/PhilLibX/releases) [![License](https://img.shields.io/github/license/Scobalula/PhilLibX.svg)](https://github.com/Scobalula/PhilLibX/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/downloads/Scobalula/PhilLibX/total.svg)](https://github.com/Scobalula/PhilLibX/releases)
 
 This is a set of classes, structures, methods, wrappers for DirectXTex, Compression, etc. that I use throughout my own .NET code that is available here for anyone to use. This library is built to suit my needs and is provided as is.
 
